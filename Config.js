@@ -4,23 +4,23 @@ require('dotenv').config();
 
 //contact details
 global.ownernumber = [ process.env.OWNER_NUMBER || "916296424279"],
-global.ownername = process.env.OWNER_NAME || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",
+global.ownername = process.env.OWNER_NAME || "💙𓆩‎Roni𓆪_✰",
 global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
 global.location = "Indian"
 
-global.botname = process.env.BOTNAME || "𝐌𝐀𝐑𝐈𝐀-𝐌𝐃",//name of the bot
+global.botname = process.env.BOTNAME || "Rbot",//name of the bot
 
 //sticker details
-global.stickername = process.env.STICKER || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",
+global.stickername = process.env.STICKER || "💙𓆩‎Roni𓆪_✰",
 global.packname = 'Sticker By'
-global.author = process.env.AUTHOR || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",
+global.author = process.env.AUTHOR || "💙𓆩‎Roni𓆪_✰",
 //console view/theme
 global.themeemoji = '🧩'
-global.wm = "Ayush botz inc."
+global.wm = "Rb Developer."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaImo5ZG3R3qjKOdyr1I'
+global.link = 'https://instgram.com/ronibiswas_'
 
 //custom prefix
 global.prefa = process.env.PREFIX || ".",
